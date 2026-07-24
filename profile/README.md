@@ -27,11 +27,6 @@
 <p align="center">
   <img src="../assets/teammate.png" alt="MulKko Teammate" width="100%">
 </p>
-| 분야 | 이름 |
-|------|------|
-| 기획 / 디자인 | 김유진 |
-| Front-End | 이남혁, 이주희 |
-| Back-End | 김호준, 강상준 |
 
 ---
 
