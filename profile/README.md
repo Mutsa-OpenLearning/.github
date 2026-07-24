@@ -6,7 +6,8 @@
 <p align="center">
   <img src="../assets/banner.png" alt="MulKko Banner" width="100%">
 </p>
-> **말하기 어려웠던 질문에, 대화의 물꼬를 트다.**
+
+**말하기 어려웠던 질문에, 대화의 물꼬를 트다.**
 
 물꼬는 교육 현장에서 학생과 교수 사이의 질문 장벽을 낮추기 위해 기획된 실시간 질문 기반 교육 플랫폼입니다.
 
@@ -30,11 +31,6 @@
 <p align="center">
   <img src="../assets/teammate.png" alt="MulKko Teammate" width="100%">
 </p>
-| 분야 | 이름 |
-|------|------|
-| 기획 / 디자인 | 김유진 |
-| Front-End | 이남혁, 이주희 |
-| Back-End | 김호준, 강상준 |
 
 ---
 
