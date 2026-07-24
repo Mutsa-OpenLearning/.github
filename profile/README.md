@@ -1,4 +1,8 @@
-# 💧 물꼬 (MulKko)
+<h1 align="center">
+  <img src="../assets/logo.png" alt="MulKko Logo" width="42" valign="middle">
+  물꼬 (MulKko)
+</h1>
+
 <p align="center">
   <img src="../assets/banner.png" alt="MulKko Banner" width="100%">
 </p>
