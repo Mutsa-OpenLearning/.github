@@ -1,10 +1,10 @@
 <h1>
-  <img src="../assets/logo.png" alt="MulKko Logo" width="42" valign="middle">
+  <img src="https://raw.githubusercontent.com/Mutsa-OpenLearning/.github/main/assets/logo.png" width="42">
   물꼬 (MulKko)
 </h1>
 
 <p align="center">
-  <img src="../assets/banner.png" alt="MulKko Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Mutsa-OpenLearning/.github/main/assets/banner.png" width="100%">
 </p>
 
 **말하기 어려웠던 질문에, 대화의 물꼬를 트다.**
@@ -29,7 +29,7 @@
 
 # 👥 Team
 <p align="center">
-  <img src="../assets/teammate.png" alt="MulKko Teammate" width="100%">
+  <img src="https://raw.githubusercontent.com/Mutsa-OpenLearning/.github/main/assets/teammate.png" alt="MulKko Teammate" width="100%">
 </p>
 
 ---
