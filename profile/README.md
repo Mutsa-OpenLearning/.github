@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="../assets/logo.png" alt="MulKko Logo" width="42" valign="middle">
   물꼬 (MulKko)
 </h1>
