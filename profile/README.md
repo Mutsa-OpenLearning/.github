@@ -2,6 +2,7 @@
 <p align="center">
   <img src="../assets/banner.png" alt="MulKko Banner" width="100%">
 </p>
+
 **말하기 어려웠던 질문에, 대화의 물꼬를 트다.**
 
 물꼬는 교육 현장에서 학생과 교수 사이의 질문 장벽을 낮추기 위해 기획된 실시간 질문 기반 교육 플랫폼입니다.
